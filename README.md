@@ -1,16 +1,19 @@
-# loja_virtual
+# Exemplo E-Commerce com Flutter
 
-A new Flutter application.
+App feito em flutter com implementação do Firebase como banco de dados.
 
-## Getting Started
+## Plugins utilizados
 
-This project is a starting point for a Flutter application.
+- Flutter Staggered GridView
+- Cloud Firestore
+- Carousel Pro
+- Transparent Image
+- Scoped Model
+- Path Provider
+- Firebase Auth
+- Url Launcher
 
-A few resources to get you started if this is your first Flutter project:
+## Banco de dados
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+Usei Firebase como armazenamento dos dados (estrutura de arvore) do usuário e dos produtos, autenticação do usuário feita pelo Firebase também com email e senha criptografada por hash.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
