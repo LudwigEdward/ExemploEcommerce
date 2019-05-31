@@ -7,6 +7,10 @@ import 'package:scoped_model/scoped_model.dart';
 class CartModel extends Model{
   UserModel user;
   List<CartProduct> products = [];
+
+  String coupomCode;
+  int discountPercetage = 0;
+
   CartModel(this.user){
     if(user.isLogged()){
       _loadCartItems();
@@ -39,6 +43,11 @@ class CartModel extends Model{
     cartProduct.quantity ++;
     Firestore.instance.collection("users").document(user.firebaseUser.uid).collection("cart").document(cartProduct.cid).updateData(cartProduct.toMap());
     notifyListeners();
+  }
+
+  void setCoupon(String couponCode,int discountPercentage){
+    this.coupomCode = couponCode;
+    this.discountPercetage = discountPercentage;
   }
 
   void _loadCartItems() async {
