@@ -19,7 +19,7 @@
 
 ## Baixe o aplicativo
 
-###### Exemplo de Ecommerce finalizado e disponível para download: [download do apk](https://gitlab.com/LuisEduardoEdu/loja_flutter/raw/master/ExemploEcommerce.apk).
+###### Exemplo de Ecommerce finalizado e disponível para [download](https://gitlab.com/LuisEduardoEdu/loja_flutter/raw/master/ExemploEcommerce.apk).
 
 ## Agradecimentos
 
