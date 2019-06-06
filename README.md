@@ -1,6 +1,6 @@
 # Exemplo E-Commerce com Flutter
 
-> App feito em flutter com implementação do Firebase como banco de dados.
+> **App feito em flutter com implementação do Firebase como banco de dados.**
 
 ## Plugins utilizados
 
