@@ -15,7 +15,7 @@
 
 ## Banco de dados
 
-###### Usei Firebase como armazenamento dos dados (estrutura de arvore) do usuário e dos produtos, autenticação do usuário feita pelo Firebase também com email e senha criptografada por hash.
+###### Usei Firebase como armazenamento dos dados (estrutura de arvore) do usuário, dos produtos, dos pedidos, dos cupons, e das lojas físicas autenticação do usuário feita pelo Firebase também com email e senha criptografada por hash.
 
 ## Baixe o aplicativo
 
