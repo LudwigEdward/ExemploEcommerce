@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_core\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\92cf734e2b26ddc355ff813563f38c1c\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_core\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\92cf734e2b26ddc355ff813563f38c1c\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_core\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\92cf734e2b26ddc355ff813563f38c1c\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_core\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\92cf734e2b26ddc355ff813563f38c1c\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

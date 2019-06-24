@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\92cf734e2b26ddc355ff813563f38c1c\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\92cf734e2b26ddc355ff813563f38c1c\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\795a04c817135c9e9c1b705eb1bf916e\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\795a04c817135c9e9c1b705eb1bf916e\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\795a04c817135c9e9c1b705eb1bf916e\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\795a04c817135c9e9c1b705eb1bf916e\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\92cf734e2b26ddc355ff813563f38c1c\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\795a04c817135c9e9c1b705eb1bf916e\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\795a04c817135c9e9c1b705eb1bf916e\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\795a04c817135c9e9c1b705eb1bf916e\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\795a04c817135c9e9c1b705eb1bf916e\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\795a04c817135c9e9c1b705eb1bf916e\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\92cf734e2b26ddc355ff813563f38c1c\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\795a04c817135c9e9c1b705eb1bf916e\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\795a04c817135c9e9c1b705eb1bf916e\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\795a04c817135c9e9c1b705eb1bf916e\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\795a04c817135c9e9c1b705eb1bf916e\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\android projects\\loja_virtual\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\795a04c817135c9e9c1b705eb1bf916e\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    }
+]
